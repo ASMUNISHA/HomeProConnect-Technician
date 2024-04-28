@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "876838264470",
+    "firebase_url": "https://homeproconnect-3df28-default-rtdb.firebaseio.com",
+    "project_id": "homeproconnect-3df28",
+    "storage_bucket": "homeproconnect-3df28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876838264470:android:868223cb6d2367ad186cb7",
+        "android_client_info": {
+          "package_name": "com.android.homeproconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7GmmKN37rKLgKWzkMp4pznm2dWtvUmcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876838264470:android:b1eb249be61caa3f186cb7",
+        "android_client_info": {
+          "package_name": "com.android.technician"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7GmmKN37rKLgKWzkMp4pznm2dWtvUmcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
